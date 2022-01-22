@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiv123-max
+- 👋 Hi, I’m Shivanshu Amitabh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS and Full Stack Development
 - 💞️ I’m looking to collaborate on Various webdev projects
