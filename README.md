@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivanshu Amitabh
-- 👀 I’m interested in Web Development
+- 👀 I’m a MERN Stack Developer
 - 🌱 I’m currently learning ReactJS and Full Stack Development
 - 💞️ I’m looking to collaborate on Various webdev projects
 - 📫 How to reach me on my email - shivanshusid123@gmail.com
