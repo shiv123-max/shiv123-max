@@ -34,7 +34,7 @@ A complete wedding planning platform
 • WhatsApp-based digital invitations  
 • Razorpay integration for blessings  
 • Event reminders and guest list automation  
-[GitHub Repo](https://github.com/pesto-students/wedly-frontend-team2-jayesh) (coming soon)
+[GitHub Repo](https://github.com/pesto-students/wedly-frontend-team2-jayesh)
 
 ### 🛠️ OneUI (Enterprise Component Library)
 Maintained and published a reusable React component library used across enterprise teams at Cohesity. Ensured design consistency, release stability, and cross-team integration.
